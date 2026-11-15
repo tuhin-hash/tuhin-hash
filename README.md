@@ -1,500 +1,162 @@
-<div align="center">
-
-<!-- CINEMATIC BLACK HOLE GALAXY HERO BANNER -->
-<a href="assets/blackhole-profile.mp4" title="Click to view full cinematic video">
-  <img src="assets/blackhole-profile.gif" width="100%" alt="Cinematic Black Hole Galaxy - Tuhin Paul" style="border-radius: 12px; border: 1px solid #FF660044; box-shadow: 0 0 35px rgba(255, 102, 0, 0.25);" />
-</a>
-
-<br/><br/>
-
-<!-- IDENTITY HEADER -->
-<h1>
-  <span style="color: #FFFFFF; font-weight: 300; letter-spacing: 6px;">TUHIN</span>
-  <span style="color: #FFAA33; font-weight: 700; letter-spacing: 6px;">HASH</span>
-</h1>
-
 <p align="center">
-  <em style="color: #E0A96D; font-size: 1.15em; font-family: monospace; letter-spacing: 2px;">
-    Systems Engineer &nbsp;|&nbsp; Data Science &amp; AI Enthusiast
-  </em>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/singularity-hero-dark.svg">
+  <img alt="TUHIN PAUL: Systems Engineer | Data Science &amp; AI Enthusiast · REVA University. Cinematic title card: a black hole whose accretion disk is drawn from 108 contributions, one particle per day." src="assets/singularity-hero-light.svg" width="100%">
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-MSc%20Data%20Science-FF6600?style=for-the-badge&logo=academia&logoColor=white" alt="MSc Data Science" />
-  <img src="https://img.shields.io/badge/University-REVA%20University%2C%20Bangalore-FFAA33?style=for-the-badge&logo=googlemaps&logoColor=black" alt="REVA University" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems%20Engineering-030305?style=for-the-badge&logo=probot&logoColor=FF6600" alt="Systems Engineer" />
+  <b>TUHIN PAUL</b> · Systems Engineer | Data Science &amp; AI Enthusiast · MSc Data Science @ REVA University
 </p>
 
-<!-- TAGLINE -->
 <p align="center">
-  <span style="color: #888899; font-size: 1.0em; font-family: monospace;">
-    "Building intelligent solutions for a smarter tomorrow."
-  </span>
+  <a href="https://my-portfolio-tuhin-hash.vercel.app" target="_blank"><img src="https://img.shields.io/badge/3D_Portfolio-FF6600?style=flat-square&logo=three.js&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tuhinnpaul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/tuhin-hash" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:tuhin16003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/tuhin-hash?tab=repositories"><img src="https://img.shields.io/badge/Repositories-030305?style=flat-square&logo=git&logoColor=FFAA33" alt="Repositories" /></a>
 </p>
 
-<!-- ANIMATED TERMINAL TYPING SVG -->
+> **Mission brief.** Translating mathematical rigor into resilient production intelligence. Postgraduate Data Science researcher at REVA University specializing in AI engineering, Transformer architectures, Explainable AI (XAI), and multi-agent system simulations.
+>
+> **Current objective.** Architecting scalable end-to-end intelligent pipelines, optimizing inference latency across FastAPI microservices, and advancing interpretable decision systems for high-stakes domains.
+
+---
+
+### 🛰️ Mission Telemetry
+
 <p align="center">
-  <a href="https://github.com/tuhin-hash">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFAA33&center=true&vCenter=true&width=650&height=45&lines=%E2%9D%AF+Systems+Engineer;%E2%9D%AF+Data+Science+%26+AI+Enthusiast;%E2%9D%AF+Machine+Learning+Developer;%E2%9D%AF+Automation+%26+Multi-Agent+Builder" alt="Typing SVG" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/singularity-telemetry-dark.svg">
+  <img alt="Mission telemetry for Horizon III: 3 years on GitHub, 108 contributions in the last 12 months, 14 active days, longest streak 3 days, 0 stars, 3 followers." src="assets/singularity-telemetry-light.svg" width="100%">
+</picture>
 </p>
 
-<!-- QUICK NAVIGATION BADGES -->
-<p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-030305?style=flat-square&logo=about.me&logoColor=FF6600" alt="About" /></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-030305?style=flat-square&logo=codeforces&logoColor=FFAA33" alt="Tech Stack" /></a>
-  <a href="#-flagship--featured-ai-projects"><img src="https://img.shields.io/badge/Projects-030305?style=flat-square&logo=target&logoColor=FF6600" alt="Projects" /></a>
-  <a href="#-github-telemetry--metrics"><img src="https://img.shields.io/badge/Statistics-030305?style=flat-square&logo=chartdotjs&logoColor=FFAA33" alt="Statistics" /></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-030305?style=flat-square&logo=network-wired&logoColor=FF6600" alt="Connect" /></a>
-</p>
+<details>
+<summary><sub><b>Reading the instruments</b> (click to expand telemetry breakdown)</sub></summary>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,100:FFAA33&height=3&section=header" width="100%" alt="Neon Divider" />
+- **Accretion disk:** One particle per day of the last 365 days; brighter and closer to the event horizon signifies a busier contribution day. Three radial Keplerian bands spin at differential velocities (`28s`, `46s`, `76s`), mirroring real astrophysical accretion disks.
+- **Relativistic beaming (Doppler effect):** The approaching side of the disk is amplified in brightness via horizontal gradient masking.
+- **Orbit trajectory:** Monthly contribution volumes plotted as a closed Catmull-Rom spline curve; the pulsing radar beacon pinpoints the peak activity month (September 2026).
+- **Spectral composition:** Primary language distribution by bytes across all public repositories.
+- **Survey negative (Light theme):** Automatically renders as an inverted astronomical survey photographic plate when viewing in GitHub light mode.
+- **Accessibility:** Motion is gracefully paused when your operating system or browser requests `prefers-reduced-motion`.
 
-</div>
+</details>
 
-<br/>
+---
 
-<!-- =================================================== -->
-<!-- ABOUT ME SECTION -->
-<!-- =================================================== -->
-## 🌌 About Me
+### 🚀 Flight Log (Featured Projects)
 
-```yaml
-identity:
-  name: Tuhin Hash
-  role: Systems Engineer | Data Science & AI Enthusiast
-  education: MSc Data Science @ REVA University, Bangalore
-  core_focus:
-    - Artificial Intelligence & Machine Learning
-    - Transformer NLP & Computer Vision Architectures
-    - Explainable AI (XAI) & Interpretability Frameworks
-    - Enterprise Automation & Multi-Agent Simulations
-  engineering_creed: "Translating mathematical rigor into resilient production intelligence."
-```
+- `MSN-01` 🛡️ **[SentinelAI](https://github.com/tuhin-hash/SentineAII)** · Enterprise-grade AI cybersecurity defense platform detecting phishing URLs, scam SMS, and deceptive screenshots through multi-modal risk scoring, visual OCR, and Explainable AI (XAI) auditing.  
+  `Python` · `Scikit-Learn` · `FastAPI` · `NLP` · `EasyOCR` · `React` · ★ *Flagship AI Architecture*
 
-- 🔭 **Postgraduate Researcher & Developer**: Pursuing an MSc in Data Science at **REVA University, Bangalore**, specializing in advanced machine learning, predictive modeling, and intelligent software engineering.
-- 🧠 **AI Architecture & Deep Learning**: Engineering end-to-end intelligent pipelines spanning sequence-to-sequence transformer models (GED/GEC), multimodal threat classifiers, and multi-agent coordination systems.
-- 🔍 **Explainable AI (XAI)**: Strong advocate for interpretability and auditability—integrating additive SHAP attributions, LIME surrogate explanations, and subgroup fairness evaluations into mission-critical models.
-- ⚡ **Practical Problem Solving**: Building production-oriented solutions designed for high-stakes domains including cybersecurity risk assessment, emergency resource dispatch simulations, and smart agriculture optimization.
-- 📈 **Continuous Evolution**: Relentlessly refining engineering standards across model evaluation, API microservices (FastAPI), modern frontend interfaces (React/Three.js), and cloud deployments.
+- `MSN-02` 🚨 **[Crisis Command](https://github.com/tuhin-hash/Crisis_command)** · AI-assisted crisis intelligence and emergency dispatch simulation engine featuring LangGraph decision agents, dynamic resource allocation, counterfactual What-If replay, and geospatial visualization.  
+  `Python` · `FastAPI` · `LangGraph` · `LLM Agents` · `React` · `TypeScript` · `Leaflet`
 
-<br/>
+- `MSN-03` 🌾 **[Farm Wise](https://github.com/tuhin-hash/Farm-Wise)** · Multi-agent AI livestock decision-support ecosystem optimizing feed formulation, profit margins, and environmental risk assessment with linear programming and explainable recommendations.  
+  `TypeScript` · `React` · `Three.js` · `Linear Optimization` · `Multi-Agent AI` · `Tailwind CSS`
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFAA33,100:FF6600&height=2&section=header" width="100%" alt="Divider" />
-</div>
+- `MSN-04` ✍️ **[GrammerSense](https://github.com/tuhin-hash/GrammerSense)** · Production NLP system for Grammar Error Detection &amp; Correction (GED/GEC) fine-tuned on Hugging Face T5 Seq2Seq Transformers with beam search and GLEU/BLEU evaluation benchmarks.  
+  `Python 3.12` · `PyTorch` · `Hugging Face Transformers` · `T5` · `FastAPI` · `Vite`
 
-<br/>
+- `MSN-05` ⚡ **[Customer Feedback &amp; Discount Automation](https://github.com/tuhin-hash/first_n8n_workflow)** · Autonomous customer sentiment evaluation and discount voucher dispatch workflow engineered on n8n with Google Sheets API synchronization and webhook integration.  
+  `n8n` · `Webhooks` · `Google Sheets API` · `Automated Sentiment Analysis`
 
-<!-- =================================================== -->
-<!-- TECH STACK SECTION -->
-<!-- =================================================== -->
-## 🛰️ Tech Stack
+- `MSN-06` 🌐 **[Interactive 3D Developer Portfolio](https://github.com/tuhin-hash/My_Portfolio)** · Cinematic personal portfolio built with real-time procedural GLSL shaders, 22,000 particle morphing networks, and Lenis momentum physics.  
+  `React 18` · `Three.js` · `React Three Fiber` · `GLSL Shaders` · [Live Demo](https://my-portfolio-tuhin-hash.vercel.app)
+
+- `MSN-07` 📊 **[Swiggy SQL Business Intelligence](https://github.com/tuhin-hash/swiggy-sql-project)** · In-depth business analytics exploring order velocity, customer cohort retention, and restaurant revenue streams using advanced SQL, window functions, and CTEs.  
+  `MySQL` · `Window Functions` · `Common Table Expressions` · `Data Analytics`
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 📊 Data Science & Analytics
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-030305?style=for-the-badge&logo=r&logoColor=FF6600" alt="Statistical Modeling" />
-</p>
-
-### 🧠 AI / Machine Learning & Deep Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Transformers-FF6600?style=for-the-badge&logo=probot&logoColor=white" alt="Transformers" />
-  <img src="https://img.shields.io/badge/NLP-FFAA33?style=for-the-badge&logo=databricks&logoColor=black" alt="NLP" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-030305?style=for-the-badge&logo=opencv&logoColor=FF6600" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP/LIME)-FF6600?style=for-the-badge&logo=scientific-computing&logoColor=white" alt="Explainable AI" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-20232A?style=for-the-badge&logo=swarm&logoColor=FFAA33" alt="Multi-Agent Systems" />
-</p>
-
-### 📈 Business Intelligence & Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Seaborn%20%26%20Matplotlib-030305?style=for-the-badge&logo=plotly&logoColor=FFAA33" alt="Seaborn & Matplotlib" />
-</p>
-
-### 🛠️ Engineering, Frameworks & Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/React%2018-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### ☁️ Cloud & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/REST%20APIs-030305?style=for-the-badge&logo=postman&logoColor=FF6600" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+| Domain | Core Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | `Python` `SQL` `JavaScript` `TypeScript` `HTML5` `CSS3` |
+| **AI / Machine Learning** | `PyTorch` `Hugging Face Transformers` `Scikit-Learn` `NLP` `LangGraph` `XAI (SHAP/LIME)` |
+| **Data & Analytics** | `Pandas` `NumPy` `SciPy` `Seaborn` `Matplotlib` `Power BI` `Tableau` `Excel` |
+| **Engineering & Web** | `FastAPI` `Docker` `n8n Automation` `React 18` `Three.js` `Git` `GitHub Actions` |
+| **Cloud & Deployment** | `AWS` `Vercel` `RESTful Microservices` `Linux / Bash` |
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,100:FFAA33&height=2&section=header" width="100%" alt="Divider" />
-</div>
-
-<br/>
-
-<!-- =================================================== -->
-<!-- FEATURED PROJECTS SECTION -->
-<!-- =================================================== -->
-## 🔮 Flagship & Featured AI Projects
-
-<!-- FLAGSHIP PROJECT: SENTINELAI -->
-<table width="100%">
-  <tr>
-    <td colspan="2" bgcolor="#0a0604">
-      <h3 align="left">
-        🛡️ <a href="https://github.com/tuhin-hash/SentineAII"><b>SentinelAI</b></a>
-        &nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-FF6600?style=flat-square&logo=shield&logoColor=white" alt="Flagship" />
-        <img src="https://img.shields.io/badge/AI%20%C2%B7%20Cybersecurity-030305?style=flat-square&color=FFAA33" alt="Domain" />
-      </h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="65%" valign="top">
-      <p>
-        An enterprise-grade <b>AI-powered cybersecurity defense platform</b> engineered to identify, classify, and mitigate phishing URLs, fraudulent text messages, scam emails, and deceptive visual screenshots through real-time multi-modal risk scoring.
-      </p>
-      <ul>
-        <li><b>Phishing URL Intelligence:</b> Lexical and behavioral feature extraction paired with high-precision machine learning classification.</li>
-        <li><b>NLP Threat Parsing:</b> Semantic TF-IDF and NLP pipelines detecting deceptive linguistics across incoming correspondence.</li>
-        <li><b>Visual OCR Pipeline:</b> Image-based scam detection extracting on-screen text with EasyOCR for contextual risk evaluation.</li>
-        <li><b>Explainable AI Auditing:</b> Granular attribution scoring revealing contributing risk factors and threat indicators.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-FFAA33?style=flat-square" />
-        <img src="https://img.shields.io/badge/EasyOCR-030305?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <a href="https://github.com/tuhin-hash/SentineAII">
-        <img src="https://img.shields.io/badge/View%20Repository-FF6600?style=for-the-badge&logo=github&logoColor=white" alt="View SentinelAI" />
-      </a>
-      <br/><br/>
-      <code style="color: #FFAA33;">Flagship AI Architecture</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- GRID OF OTHER FEATURED PROJECTS -->
-<table width="100%">
-  <!-- ROW 1: CRISIS COMMAND & FARM WISE -->
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚨 <a href="https://github.com/tuhin-hash/Crisis_command">Crisis Command</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/AI%20%C2%B7%20Operations-FFAA33?style=flat-square" />
-        <img src="https://img.shields.io/badge/LangGraph-030305?style=flat-square" />
-      </p>
-      <p>
-        AI-assisted crisis intelligence and simulation platform for incident management, dynamic resource allocation, dispatch simulation, human-in-the-loop decisions, What-If analysis, counterfactual simulations, decision replay, geospatial visualization, and real-time audit tracking.
-      </p>
-      <p>
-        <b>Tech Stack:</b> Python, FastAPI, LangGraph, LLM Decision Agents, React, TypeScript, Leaflet
-      </p>
-      <p align="right">
-        <a href="https://github.com/tuhin-hash/Crisis_command"><b>Explore Crisis Command →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌾 <a href="https://github.com/tuhin-hash/Farm-Wise">Farm Wise</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Multi--Agent%20AI-FF6600?style=flat-square" />
-        <img src="https://img.shields.io/badge/AgriTech-030305?style=flat-square" />
-      </p>
-      <p>
-        Multi-agent AI-powered livestock farm decision-support system that optimizes feed formulation, analyzes costs and profits, evaluates environmental risks, and simulates possible outcomes to deliver explainable, data-driven recommendations for healthier animals and improved profitability.
-      </p>
-      <p>
-        <b>Tech Stack:</b> TypeScript, React, Three.js, Multi-Agent Systems, Linear Optimization, Tailwind CSS
-      </p>
-      <p align="right">
-        <a href="https://github.com/tuhin-hash/Farm-Wise"><b>Explore Farm Wise →</b></a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- ROW 2: GRAMMERSENSE & N8N AUTOMATION -->
-  <tr>
-    <td width="50%" valign="top">
-      <h4>✍️ <a href="https://github.com/tuhin-hash/GrammerSense">GrammerSense</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/NLP%20%C2%B7%20Deep%20Learning-FF6600?style=flat-square" />
-        <img src="https://img.shields.io/badge/T5%20Seq2Seq-FFAA33?style=flat-square" />
-      </p>
-      <p>
-        Production-grade NLP system for Grammar Error Detection &amp; Correction (GED/GEC) using fine-tuned Hugging Face T5 Seq2Seq Transformers. Performs token-level localization, multi-candidate beam generation, and rigorous academic evaluation across GLEU, BLEU, and F0.5 metrics.
-      </p>
-      <p>
-        <b>Tech Stack:</b> Python 3.12, PyTorch, Hugging Face Transformers, T5, FastAPI, React, Vite
-      </p>
-      <p align="right">
-        <a href="https://github.com/tuhin-hash/GrammerSense"><b>Explore GrammerSense →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/tuhin-hash/first_n8n_workflow">Customer Feedback &amp; Discount Automation</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-030305?style=flat-square" />
-      </p>
-      <p>
-        Intelligent customer feedback management pipeline built on n8n. Evaluates real-time submission sentiment using conditional rule logic, automatically generates and dispatches discount vouchers to qualified users, and synchronizes records directly into Google Sheets CRM.
-      </p>
-      <p>
-        <b>Tech Stack:</b> n8n, Webhooks, Google Forms Trigger, Google Sheets API, Sentiment Logic
-      </p>
-      <p align="right">
-        <a href="https://github.com/tuhin-hash/first_n8n_workflow"><b>Explore n8n Workflow →</b></a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- ROW 3: 3D PORTFOLIO & SWIGGY SQL -->
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/tuhin-hash/My_Portfolio">Interactive 3D Developer Portfolio</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Creative%20Tech-FFAA33?style=flat-square" />
-        <img src="https://img.shields.io/badge/Live%20Vercel%20App-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
-      <p>
-        Cinematic 3D personal portfolio featuring real-time procedural GLSL shaders, 22,000 particle morphing networks, momentum scroll physics (Lenis), and interactive showcases displaying technical milestones and live project monitors.
-      </p>
-      <p>
-        <b>Live Demo:</b> <a href="https://my-portfolio-tuhin-hash.vercel.app">my-portfolio-tuhin-hash.vercel.app</a><br/>
-        <b>Tech Stack:</b> React 18, Vite, Three.js, React Three Fiber, Custom GLSL Shaders
-      </p>
-      <p align="right">
-        <a href="https://github.com/tuhin-hash/My_Portfolio"><b>Explore Portfolio Repo →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/tuhin-hash/swiggy-sql-project">Swiggy SQL Business Intelligence</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/SQL%20Analytics-CC292B?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/BI-030305?style=flat-square" />
-      </p>
-      <p>
-        In-depth SQL business analysis exploring complex order flows, customer segmentation, restaurant performance metrics, delivery trends, and revenue revenue streams using multi-table joins, CTEs, and window functions.
-      </p>
-      <p>
-        <b>Tech Stack:</b> MySQL, Advanced SQL, Window Functions, CTEs, Business Intelligence
-      </p>
-      <p align="right">
-        <a href="https://github.com/tuhin-hash/swiggy-sql-project"><b>Explore SQL Analysis →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFAA33,100:FF6600&height=2&section=header" width="100%" alt="Divider" />
-</div>
-
-<br/>
-
-<!-- =================================================== -->
-<!-- GITHUB STATISTICS SECTION -->
-<!-- =================================================== -->
-## 📊 GitHub Telemetry & Metrics
-
-<div align="center">
-
-<!-- STREAK STATS -->
-<a href="https://github.com/tuhin-hash">
-  <img src="https://streak-stats.demolab.com/?user=tuhin-hash&theme=dark&background=030305&border=FF6600&stroke=FF6600&ring=FFAA33&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFAA33&sideLabels=FFAA33&dates=888888" alt="GitHub Streak Stats" width="85%" />
-</a>
-
-<br/><br/>
-
-<!-- PROFILE SUMMARY CARDS (CYBERPUNK 2077 THEME) -->
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhin-hash&theme=2077" alt="Profile Details" width="380px" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuhin-hash&theme=2077" alt="GitHub Stats" width="380px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuhin-hash&theme=2077" alt="Repos Per Language" width="380px" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuhin-hash&theme=2077" alt="Most Commit Language" width="380px" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- =================================================== -->
-<!-- CONTRIBUTION SNAKE SECTION -->
-<!-- =================================================== -->
-## 🐍 Contribution Cosmos
+### 🐍 Contribution Cosmos
 
 <div align="center">
   <p>
-    <em>Autonomous contribution grid simulation — navigating daily commits across space:</em>
+    <em>Autonomous contribution grid simulation navigating daily commits across space:</em>
   </p>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuhin-hash/tuhin-hash/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuhin-hash/tuhin-hash/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="assets/snake.svg" width="90%" />
+    <img alt="GitHub Contribution Grid Snake" src="assets/snake.svg" width="90%">
   </picture>
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,100:FFAA33&height=2&section=header" width="100%" alt="Divider" />
-</div>
-
-<br/>
-
-<!-- =================================================== -->
-<!-- CURRENT FOCUS SECTION -->
-<!-- =================================================== -->
-## 🎯 Current Engineering Focus
+### 🎯 Core Engineering Pillars
 
 <table width="100%">
   <tr>
-    <td width="20%" align="center">
-      <b>01. AI Engineering</b>
-    </td>
-    <td>
-      Architecting production-ready AI services with FastAPI, asynchronous queues, model batching, and containerized microservice deployments.
-    </td>
+    <td width="22%" align="center"><b>01. AI Engineering</b></td>
+    <td>Architecting production-ready AI services with FastAPI, asynchronous queues, model batching, and containerized microservice deployments.</td>
   </tr>
   <tr>
-    <td width="20%" align="center">
-      <b>02. Machine Learning</b>
-    </td>
-    <td>
-      Designing supervised &amp; unsupervised predictive systems, fine-tuning modern architectures, and optimizing inference latency.
-    </td>
+    <td width="22%" align="center"><b>02. Machine Learning</b></td>
+    <td>Designing supervised &amp; unsupervised predictive systems, fine-tuning sequence-to-sequence transformer models, and benchmarking inference performance.</td>
   </tr>
   <tr>
-    <td width="20%" align="center">
-      <b>03. Explainable AI</b>
-    </td>
-    <td>
-      Applying SHAP waterfall decompositions, LIME linear surrogates, and socio-demographic fairness audits to eliminate black-box opacity.
-    </td>
+    <td width="22%" align="center"><b>03. Explainable AI</b></td>
+    <td>Implementing SHAP feature attributions, LIME local surrogates, and fairness metrics to guarantee auditability in decision models.</td>
   </tr>
   <tr>
-    <td width="20%" align="center">
-      <b>04. Cloud Deployment</b>
-    </td>
-    <td>
-      Deploying data and ML infrastructure on AWS, establishing containerized runtime environments with Docker, and configuring CI/CD pipelines.
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <b>05. Automation Workflows</b>
-    </td>
-    <td>
-      Building self-healing webhook automations, multi-agent LLM decision swarms, and data synchronization workflows using n8n and LangGraph.
-    </td>
+    <td width="22%" align="center"><b>04. Systems &amp; Automation</b></td>
+    <td>Building resilient webhook integrations, autonomous multi-agent task simulations, and automated data pipelines using n8n and LangGraph.</td>
   </tr>
 </table>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFAA33,100:FF6600&height=2&section=header" width="100%" alt="Divider" />
-</div>
-
-<br/>
-
-<!-- =================================================== -->
-<!-- CONNECT WITH ME SECTION -->
-<!-- =================================================== -->
-## 📡 Connect With Me
+---
 
 <p align="center">
-  Let's collaborate on transformative AI, machine learning engineering, data science research, or autonomous systems!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/singularity-end-dark.svg">
+  <img alt="End of transmission. Building intelligent solutions for a smarter tomorrow" src="assets/singularity-end-light.svg" width="100%">
+</picture>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuhinnpaul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/tuhinnpaul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://my-portfolio-tuhin-hash.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/3D_Portfolio-FF6600?style=for-the-badge&logo=three.js&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://my-portfolio-tuhin-hash.vercel.app" target="_blank"><img src="https://img.shields.io/badge/3D_Portfolio-FF6600?style=for-the-badge&logo=three.js&logoColor=white" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://github.com/tuhin-hash" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://github.com/tuhin-hash" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
-  <a href="mailto:tuhin16003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:tuhin16003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br/>
-
-<!-- =================================================== -->
-<!-- FOOTER SECTION -->
-<!-- =================================================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,100:FFAA33&height=3&section=header" width="100%" alt="Footer Divider" />
-
-<br/>
-
-<p style="font-family: monospace; letter-spacing: 4px; color: #FFAA33; font-weight: 700; font-size: 1.1em;">
+<p style="font-family: monospace; letter-spacing: 4px; color: #FFAA33; font-weight: 700; font-size: 1.05em;">
   CODE • ANALYSE • INNOVATE
 </p>
 
-<p style="color: #888888; font-size: 0.9em;">
-  Open to Opportunities &nbsp;|&nbsp; Always Learning &nbsp;|&nbsp; Bangalore, India
+<p style="color: #888888; font-size: 0.85em;">
+  Bangalore, India &nbsp;|&nbsp; MSc Data Science @ REVA University &nbsp;|&nbsp; Open to Opportunities
 </p>
 
-<p style="color: #444444; font-size: 0.8em;">
-  © 2026 Tuhin Hash. Designed with cosmic precision for GitHub.
-</p>
+<sub>Artwork and Singularity telemetry engine adapted from <a href="https://github.com/Dr-At0mic/README-Templates">README Templates</a> (Anandhu Suresh, GPL-3.0). Self-contained animated vector SVG. Motion pauses under prefers-reduced-motion.</sub>
 
 </div>
