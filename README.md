@@ -163,7 +163,7 @@ identity:
   <tr>
     <td colspan="2" bgcolor="#0a0604">
       <h3 align="left">
-        🛡️ <a href="https://github.com/tuhin-hash/SentinelAI"><b>SentinelAI</b></a>
+        🛡️ <a href="https://github.com/tuhin-hash/SentineAII"><b>SentinelAI</b></a>
         &nbsp;&nbsp;
         <img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-FF6600?style=flat-square&logo=shield&logoColor=white" alt="Flagship" />
         <img src="https://img.shields.io/badge/AI%20%C2%B7%20Cybersecurity-030305?style=flat-square&color=FFAA33" alt="Domain" />
@@ -191,7 +191,7 @@ identity:
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <a href="https://github.com/tuhin-hash/SentinelAI">
+      <a href="https://github.com/tuhin-hash/SentineAII">
         <img src="https://img.shields.io/badge/View%20Repository-FF6600?style=for-the-badge&logo=github&logoColor=white" alt="View SentinelAI" />
       </a>
       <br/><br/>
@@ -279,7 +279,7 @@ identity:
   <!-- ROW 3: 3D PORTFOLIO & SWIGGY SQL -->
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/tuhin-hash/my-portfolio">Interactive 3D Developer Portfolio</a></h4>
+      <h4>🌐 <a href="https://github.com/tuhin-hash/My_Portfolio">Interactive 3D Developer Portfolio</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Creative%20Tech-FFAA33?style=flat-square" />
         <img src="https://img.shields.io/badge/Live%20Vercel%20App-000000?style=flat-square&logo=vercel&logoColor=white" />
@@ -292,7 +292,7 @@ identity:
         <b>Tech Stack:</b> React 18, Vite, Three.js, React Three Fiber, Custom GLSL Shaders
       </p>
       <p align="right">
-        <a href="https://github.com/tuhin-hash/my-portfolio"><b>Explore Portfolio Repo →</b></a>
+        <a href="https://github.com/tuhin-hash/My_Portfolio"><b>Explore Portfolio Repo →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
