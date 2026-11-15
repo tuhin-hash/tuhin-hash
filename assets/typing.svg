@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 80" width="100%" height="80">
   <defs>
     <linearGradient id="neonOrange" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF6600" />
-      <stop offset="50%" stop-color="#FFAA33" />
-      <stop offset="100%" stop-color="#FF8800" />
+      <stop offset="0%" stop-color="#FFAA33" />
+      <stop offset="50%" stop-color="#FF8800" />
+      <stop offset="100%" stop-color="#FFAA33" />
     </linearGradient>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2" result="blur" />
@@ -19,7 +19,7 @@
       font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
     }
     .prompt {
-      fill: #FF6600;
+      fill: #FFAA33;
       font-size: 22px;
       font-weight: 800;
       filter: url(#glow);
@@ -29,7 +29,7 @@
       font-size: 18px;
     }
     .cursor {
-      fill: #FF6600;
+      fill: #FFAA33;
       animation: blink 0.8s infinite;
       filter: url(#glow);
     }
@@ -83,21 +83,18 @@
   <rect width="100%" height="100%" fill="transparent" />
 
   <g class="terminal-container" transform="translate(20, 48)">
-    <!-- Terminal Prompt -->
     <text x="0" y="0" class="prompt">❯</text>
     <text x="25" y="0" class="bracket">[</text>
-    <text x="35" y="0" style="fill:#FFAA33; font-size:16px; font-weight:700;">AI_SYSTEMS</text>
-    <text x="145" y="0" class="bracket">]:</text>
+    <text x="35" y="0" style="fill:#FFAA33; font-size:16px; font-weight:700;">SYSTEMS</text>
+    <text x="115" y="0" class="bracket">]:</text>
 
-    <!-- Typing Text Phrases -->
-    <g transform="translate(175, 0)">
-      <text class="text-line phrase-1" x="0" y="0">AI Engineer in Progress</text>
-      <text class="text-line phrase-2" x="0" y="0">Data Science Enthusiast</text>
+    <g transform="translate(145, 0)">
+      <text class="text-line phrase-1" x="0" y="0">Systems Engineer</text>
+      <text class="text-line phrase-2" x="0" y="0">Data Science &amp; AI Enthusiast</text>
       <text class="text-line phrase-3" x="0" y="0">Machine Learning Developer</text>
       <text class="text-line phrase-4" x="0" y="0">Automation &amp; Multi-Agent Builder</text>
     </g>
 
-    <!-- Blinking Cursor positioned after text -->
     <rect x="585" y="-18" width="10" height="22" class="cursor" rx="2" />
   </g>
 </svg>

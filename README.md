@@ -9,27 +9,33 @@
 
 <!-- IDENTITY HEADER -->
 <h1>
-  <span style="color: #FFFFFF; font-weight: 800; letter-spacing: 2px;">TUHIN</span>
-  <span style="color: #FF6600; font-weight: 800; letter-spacing: 2px;">PAUL</span>
+  <span style="color: #FFFFFF; font-weight: 300; letter-spacing: 6px;">TUHIN</span>
+  <span style="color: #FFAA33; font-weight: 700; letter-spacing: 6px;">HASH</span>
 </h1>
+
+<p align="center">
+  <em style="color: #E0A96D; font-size: 1.15em; font-family: monospace; letter-spacing: 2px;">
+    Systems Engineer &nbsp;|&nbsp; Data Science &amp; AI Enthusiast
+  </em>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-MSc%20Data%20Science-FF6600?style=for-the-badge&logo=academia&logoColor=white" alt="MSc Data Science" />
   <img src="https://img.shields.io/badge/University-REVA%20University%2C%20Bangalore-FFAA33?style=for-the-badge&logo=googlemaps&logoColor=black" alt="REVA University" />
-  <img src="https://img.shields.io/badge/Status-AI%20Engineer%20In%20Progress-030305?style=for-the-badge&logo=probot&logoColor=FF6600" alt="AI Engineer in Progress" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems%20Engineering-030305?style=for-the-badge&logo=probot&logoColor=FF6600" alt="Systems Engineer" />
 </p>
 
 <!-- TAGLINE -->
 <p align="center">
-  <em style="color: #FFAA33; font-size: 1.15em; font-family: monospace;">
+  <span style="color: #888899; font-size: 1.0em; font-family: monospace;">
     "Building intelligent solutions for a smarter tomorrow."
-  </em>
+  </span>
 </p>
 
 <!-- ANIMATED TERMINAL TYPING SVG -->
 <p align="center">
   <a href="https://github.com/tuhin-hash">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6600&center=true&vCenter=true&width=620&height=45&lines=%E2%9D%AF+AI+Engineer+in+Progress;%E2%9D%AF+Data+Science+Enthusiast;%E2%9D%AF+Machine+Learning+Developer;%E2%9D%AF+Automation+%26+Multi-Agent+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFAA33&center=true&vCenter=true&width=650&height=45&lines=%E2%9D%AF+Systems+Engineer;%E2%9D%AF+Data+Science+%26+AI+Enthusiast;%E2%9D%AF+Machine+Learning+Developer;%E2%9D%AF+Automation+%26+Multi-Agent+Builder" alt="Typing SVG" />
   </a>
 </p>
 
@@ -55,8 +61,8 @@
 
 ```yaml
 identity:
-  name: Tuhin Paul
-  role: AI Engineer & Data Scientist
+  name: Tuhin Hash
+  role: Systems Engineer | Data Science & AI Enthusiast
   education: MSc Data Science @ REVA University, Bangalore
   core_focus:
     - Artificial Intelligence & Machine Learning
@@ -488,7 +494,7 @@ identity:
 </p>
 
 <p style="color: #444444; font-size: 0.8em;">
-  © 2026 Tuhin Paul. Designed with cosmic precision for GitHub.
+  © 2026 Tuhin Hash. Designed with cosmic precision for GitHub.
 </p>
 
 </div>
